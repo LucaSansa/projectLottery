@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/projectLottery/static/css/main.51c1be93.chunk.css",
+    "main.js": "/projectLottery/static/js/main.b39d5afa.chunk.js",
+    "main.js.map": "/projectLottery/static/js/main.b39d5afa.chunk.js.map",
+    "runtime-main.js": "/projectLottery/static/js/runtime-main.c3969dd9.js",
+    "runtime-main.js.map": "/projectLottery/static/js/runtime-main.c3969dd9.js.map",
+    "static/js/2.51e48c88.chunk.js": "/projectLottery/static/js/2.51e48c88.chunk.js",
+    "static/js/2.51e48c88.chunk.js.map": "/projectLottery/static/js/2.51e48c88.chunk.js.map",
+    "static/js/3.f60db0c1.chunk.js": "/projectLottery/static/js/3.f60db0c1.chunk.js",
+    "static/js/3.f60db0c1.chunk.js.map": "/projectLottery/static/js/3.f60db0c1.chunk.js.map",
+    "index.html": "/projectLottery/index.html",
+    "static/css/main.51c1be93.chunk.css.map": "/projectLottery/static/css/main.51c1be93.chunk.css.map",
+    "static/js/2.51e48c88.chunk.js.LICENSE.txt": "/projectLottery/static/js/2.51e48c88.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3969dd9.js",
+    "static/js/2.51e48c88.chunk.js",
+    "static/css/main.51c1be93.chunk.css",
+    "static/js/main.b39d5afa.chunk.js"
+  ]
+}
