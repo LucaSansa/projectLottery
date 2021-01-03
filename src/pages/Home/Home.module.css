@@ -1,0 +1,84 @@
+.Screen{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.AreaGames{
+    max-width: 1200px;
+    margin: 0 auto;    
+}
+
+.AreaControls{
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.TitleRecentGames{
+    font-family: Helvetica;
+    font-weight: bold;
+    font-style: italic;
+    color: #707070;
+    font-size: 24px;
+    margin-right: 40px;
+}
+
+
+/*botoes de trocar jogo*/
+.AreaBtnSelectors span{
+    font-family: Helvetica;
+    font-style: italic;
+    font-size: 17;
+    color: #868686;
+    margin-right: 10px;
+}
+
+.AreaBtnSelectors button{
+    width: 113px;
+    height: 34px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 2px solid;
+    border-radius: 100px;
+    opacity: 1;
+    text-decoration: none; 
+    outline: none; 
+    font-size: 14px;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-style: italic;
+    margin-right: 14px;
+    cursor: pointer;
+}
+
+.AreaBtnControls{
+    display: flex;
+    align-items: center;
+}
+
+.BtnNewBet{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.BtnNewBet span{
+    color: #B5C401;
+    text-decoration: none;
+    font-size: 24px;
+    font-family: Helvetica;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.BtnNewBet a{
+    text-decoration: none;
+}
+
+
+

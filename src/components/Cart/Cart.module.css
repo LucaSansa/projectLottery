@@ -1,0 +1,92 @@
+.Container{
+    width: 290px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #E2E2E2;
+    border-radius: 10px;
+    opacity: 1;
+}
+
+.TitlePrice{
+    font-family: Helvetica;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+    color: #707070;
+    text-transform: uppercase;
+    margin-left: 16px;
+}
+
+.TitlePrice span{
+    font-weight: normal;
+}
+
+.ContainerBet{
+    align-items: center;
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 16px;
+}
+
+.Bet{
+    width: 215px;
+    height: 90px;
+    flex-wrap: wrap;
+    word-wrap: break-word;
+    border-radius: 3px 0px 0px 3px;
+    padding-left: 8px;
+    padding-bottom: 8px;
+    margin-left: 8px;
+}
+
+.Bet span{
+    color: #868686;
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    margin-left: 15px;
+}
+.Bet p{
+    font-size: 17px;
+    color: #868686;
+    font-family: Helvetica;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.BetGame{
+    font-size: 17px;
+    color: #868686;
+    font-family: Helvetica;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.AreaSave{
+    background: #F4F4F4 0% 0% no-repeat padding-box;
+    border: 1px solid #E2E2E2;
+    opacity: 1;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+.AreaBtnSave{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.AreaBtnSave button{
+    font-weight: bold;
+    font-style: italic;
+    font-family: Helvetica;
+    color:#27C383;
+    font-size: 30px;
+    justify-content: center;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}

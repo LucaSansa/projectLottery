@@ -1,0 +1,87 @@
+.Container{
+    max-width: 600px;
+}
+
+.Title{
+    font-size: 17px;
+    color: #868686;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.Description{
+    font-size: 17px;
+    color: #868686;
+    font-family: Helvetica;
+    font-style: italic;
+
+}
+
+.ButtonNumber{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    margin: 15px 15px 15px 0;
+    background: #ADC0C4 0% 0% no-repeat padding-box;
+    opacity: 1;
+    border: none;
+    text-decoration: none; 
+    outline: none; 
+    font-size: 20px;
+    font-family: Helvetica;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.ButtonsControl button{
+    width: 120px;
+    height: 40px;
+    font: normal normal medium 16px/24px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #27C383;
+    opacity: 1;
+    border: 1px solid #27C383;
+    border-radius: 8px;
+    opacity: 1;
+    margin-right: 14px;
+    background: transparent;
+    text-decoration: none; 
+    outline: none;
+    font-weight: bolder; 
+}
+
+.ButtonsControl button:hover{
+    background: #27C383;
+    color: #FFFFFF;
+}
+
+/*----------------------------------------*/
+.ButtonAddGame button{
+    width: 160px;
+    height: 40px;
+    font: normal normal medium 16px/24px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #27C383;
+    opacity: 1;
+    border: 1px solid #27C383;
+    border-radius: 8px;
+    opacity: 1;
+    margin-right: 14px;
+    background: transparent;
+    text-decoration: none; 
+    outline: none;
+    font-weight: bolder; 
+}
+
+.ButtonAddGame button:hover{
+    background: #27C383;
+    color: #FFFFFF;
+}
+
+.ButtonCart{
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+    padding: 8px, 0, 0, 8px;
+}

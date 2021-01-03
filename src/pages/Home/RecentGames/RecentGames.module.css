@@ -1,0 +1,31 @@
+.Container{
+    padding-left: 8px;
+    margin-bottom: 16px;;
+    width: 500px;
+    border-radius: 3px 0px 0px 3px;
+
+}
+
+.Bet{
+    font-size: 20;
+    color: #868686;
+    font-weight: bold;
+    font-style: italic;
+    font-family: Helvetica;
+    margin: 0px 0px 8px 0px;
+}
+
+.DatePrice{
+    font-size: 17px;
+    color: #868686;
+    font-family: Helvetica;
+    margin: 0px 0px 8px 0px;
+}
+
+.Type{
+    font-size: 20px;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-style: italic;
+    margin: 0px 0px 8px 0px;
+}

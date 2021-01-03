@@ -1,0 +1,51 @@
+.Container{
+    width: 280px;
+    border: 1px solid#DDDDDD;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 10px;
+    box-shadow: 0px 3px 25px #00000014;
+    opacity: 1;    
+}
+
+input{
+    border: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 10px;
+    background-color: transparent;
+}
+
+input:focus{
+    box-shadow: 0 0 0 0;
+    outline: 0;
+}
+
+::placeholder{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.AreaInput{
+    border-bottom: 1px solid #DDDDDD;
+}
+
+
+.AreaBtnRegister{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.AreaBtnRegister button{
+    font-weight: bold;
+    font-style: italic;
+    color:#B5C401;
+    font-size: 30px;
+    justify-content: center;
+    background-color: transparent;
+    outline: none;
+    border: none;
+}

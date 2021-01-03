@@ -1,0 +1,43 @@
+
+.Screen{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;  
+}
+
+
+.TitleGame{
+    font-family: Helvetica;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+    color: #707070;
+    text-transform: uppercase;
+}
+
+.TitleGame span{
+    font-weight: normal;
+}
+
+
+.AreaBtn{
+    display: flex;
+    margin-bottom: 24px;
+    
+}
+
+.ChooseGame{
+    font-size: 17px;
+    color: #868686;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-style: italic;
+}
+

@@ -1,0 +1,58 @@
+body{
+    background: #F7F7F7 0% 0% no-repeat padding-box;
+}
+
+.Screen{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Container{
+    /* height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;  
+    background: #F7F7F7 0% 0% no-repeat padding-box;
+    opacity: 1; */
+    margin-top: 8%; /*adaptação*/
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;  
+    background: #F7F7F7 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.Registration p{
+    text-align: center;
+    color: #707070;
+    font-style: italic;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Helvetica;
+}
+
+.AreaBtnBack{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.AreaBtnBack a{
+    text-decoration: none;
+    font-weight: bold;
+    font-family: Helvetica;
+    font-style: italic;
+    color:#707070;
+    font-size: 35px;
+    justify-content: center;
+    /* background-color: transparent;
+    outline: none;
+    border: none;
+} */
+}
+

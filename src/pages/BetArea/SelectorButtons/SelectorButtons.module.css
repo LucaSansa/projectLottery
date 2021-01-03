@@ -1,0 +1,16 @@
+.Buttons{
+    width: 113px;
+    height: 34px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 2px solid;
+    border-radius: 100px;
+    opacity: 1;
+    text-decoration: none; 
+    outline: none; 
+    font-size: 14px;
+    font-family: Helvetica;
+    font-weight: bold;
+    font-style: italic;
+    margin-right: 14px;
+    cursor: pointer;
+}
